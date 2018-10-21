@@ -405,7 +405,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 184d7cd01cd91e04a81486e545babbe7, type: 3}
   tail: {fileID: 548710477}
   foodPrefab: {fileID: 1510443446975340, guid: e66a5f3cbceb22245a38db7ce0eab25d, type: 2}
-  score: 8
+  score: 0
   txt_Score: {fileID: 496403456}
   txt_main: {fileID: 1928693593}
   border_top: {fileID: 1311487853}
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: 548710479}
   - component: {fileID: 548710478}
   m_Layer: 0
-  m_Name: tail (1)
+  m_Name: tail
   m_TagString: Block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1243,7 +1243,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 1, g: 0.61960787, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.8666667, g: 0.61960787, b: 1, a: 1}
     m_PressedColor: {r: 0.8901961, g: 0.6901961, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
